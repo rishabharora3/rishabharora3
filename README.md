@@ -7,4 +7,4 @@ Check out my portfolio [here](https://rishabharora.netlify.app/)
 
 
 
-- 📫 Contact information **ra8851@rit.edu**
+- 📫 Contact information **ra8851@rit.edu**/**rishabharora3@gmail.com**
