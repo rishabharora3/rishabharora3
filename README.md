@@ -8,10 +8,7 @@ Check out my portfolio [here](https://rishabharora.netlify.app/)
 
 
 - 📫 Contact information **ra8851@rit.edu**/**rishabharora3@gmail.com**
-
-<p align="left">
-    Ｕｎｓｔｏｐｐａｂｌｅ　ｌｅａｒｎｅｒ
-</p>
+  
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=rishabharora3&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
